@@ -1,1 +1,0 @@
-# Autonomous-Hexapod-Bio-Inspired-Robotic-Walker
